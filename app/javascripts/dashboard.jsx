@@ -20,13 +20,13 @@ var Dashboard = React.createClass({
 
             <h2>Downloads</h2>
             <p className="mb-4">
-              Over the lifetime of each product in the Truffle Suite, from inception to now.
+              Over the lifetime of each product in the Moxie Suite, from inception to now.
             </p>
 
-            <h3>TRUFFLE</h3>
+            <h3>MOXIE</h3>
             <div className="tile is-ancestor">
               <div className="tile is-12">
-                <DownloadsTile colorclassName="is-truffle" packageName="truffle" startDate="2015-05-01" />
+                <DownloadsTile colorclassName="is-moxie" packageName="moxie" startDate="2015-05-01" />
               </div>
             </div>
 
@@ -46,11 +46,11 @@ var Dashboard = React.createClass({
 
             <h2 className="mt-5">Developer Adoption</h2>
             <p>
-              Truffle Suite's usage by developers over time, measured in GitHub stars.
+              Moxie Suite's usage by developers over time, measured in GitHub stars.
             </p>
             <div className="tile is-ancestor">
               <div className="tile is-12">
-                <StargazersTile projects={["trufflesuite/truffle", "trufflesuite/ganache", "trufflesuite/drizzle"]}/>
+                <StargazersTile projects={["moxiesuite/moxie", "moxiesuite/ganache", "moxiesuite/drizzle"]}/>
               </div>
             </div>
 

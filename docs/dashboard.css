@@ -604,13 +604,13 @@
     padding-left: 0; }
   .dashboard .no-right-padding {
     padding-right: 0; }
-  .dashboard .truffle-border {
+  .dashboard .moxie-border {
     background: #33262a;
     border: 2px solid #3fe0c5; }
 
-.is-truffle {
+.is-moxie {
   background: #3fe0c5; }
-  .is-truffle.has-border {
+  .is-moxie.has-border {
     background: #33262a;
     border: 2px solid #3fe0c5; }
 

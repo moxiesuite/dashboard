@@ -7,7 +7,7 @@ var Header = React.createClass({
         <nav className="nav">
           <div className="nav-left">
             <a className="nav-item no-left-padding">
-              <img src="/dashboard/images/logo-horiz.png" alt="Truffle logo" />
+              <img src="/dashboard/images/logo-horiz.png" alt="Moxie logo" />
             </a>
           </div>
 
@@ -31,19 +31,19 @@ var Header = React.createClass({
           </span>
 
           <div className="nav-right nav-menu">
-            <a className="nav-item" href="http://truffleframework.com">
+            <a className="nav-item" href="https://moxiesuite.github.io">
               Home
             </a>
-            <a className="nav-item" href="http://truffleframework.com/docs">
+            <a className="nav-item" href="https://moxiesuite.github.io/docs">
               Documentation
             </a>
-            <a className="nav-item" href="http://truffleframework.com/tutorials">
+            <a className="nav-item" href="https://moxiesuite.github.io/tutorials">
               Tutorials
             </a>
 
             <span className="nav-item no-right-padding">
-              <a className="button is-primary" href="http://truffleframework.com">
-                <span>Download Truffle</span>
+              <a className="button is-primary" href="https://moxiesuite.github.io">
+                <span>Download Moxie</span>
               </a>
             </span>
           </div>

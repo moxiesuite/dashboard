@@ -1,3 +1,3 @@
 # dashboard
 
-http://trufflesuite.github.io/dashboard
+https://moxiesuite.github.io/dashboard

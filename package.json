@@ -1,5 +1,6 @@
 {
-  "name": "truffle-dashboard",
+  "name": "moxie-dashboard",
+  "namespace": "moxiesuite",
   "version": "0.0.1",
   "description": "",
   "scripts": {
@@ -9,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trufflesuite/dashboard.git"
+    "url": "git+https://github.com/moxiesuite/dashboard.git"
   },
   "author": "Tim Coulter <tim.coulter@consensys.net>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/trufflesuite/dashboard/issues"
+    "url": "https://github.com/moxiesuite/dashboard/issues"
   },
-  "homepage": "https://github.com/trufflesuite/dashboard#readme",
+  "homepage": "https://github.com/moxiesuite/dashboard#readme",
   "dependencies": {
     "async": "^2.1.4",
     "axios": "^0.15.3",
