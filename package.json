@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/moxiesuite/dashboard#readme",
   "dependencies": {
-    "async": "^2.1.4",
+    "async": "^3.2.2",
     "axios": "^0.15.3",
     "babel-core": "^6.21.0",
     "babel-loader": "^6.2.10",
